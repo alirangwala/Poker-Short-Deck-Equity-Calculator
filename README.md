@@ -23,6 +23,7 @@ OS X & Linux:
 ```sh
 python calculator.py -h
 
+
 usage: calculator.py [-h] [-b [BOARD [BOARD ...]]] [-c [CARDS [CARDS ...]]]
                      [-n NUM] [-g GAME]
 
