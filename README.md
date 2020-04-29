@@ -3,7 +3,8 @@
 ## What is short deck?
 
 Short deck hold'em is a version of Texas hold'em where the cards below 6 are removed from the deck. This results in a 36 card deck with a lot more action and different hand rankings (flush beats full house and trips beats straight--in some versions). As the pool of players in Texas Hold'em is becoming dominated by online experts, the game is losing popularity among the amateur. Short deck is designed to have a lot more action and variance so it is rising to fill the gap. The new game hasn't been figured out until now!
-For more information: (<https://triton-series.com/understand-short-deck-holdem/>)
+
+For more information visit <https://triton-series.com/understand-short-deck-holdem/>
 
 ## Who plays short deck?
 
