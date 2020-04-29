@@ -1,9 +1,11 @@
-# Product Name
-> Short blurb about what your product does.
+# Short Deck Hold'em Equity Calculator
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+## What is short deck?
+
+Short deck hold'em is a version of Texas hold'em where the cards below 6 are removed from the deck. This results in a 36 card deck with a lot more action and different hand rankings (Flush beats full house and trips beats straight--in some versions). As the pool of players in Texas Hold'em is becoming dominated by online experts, the game is losing popularity among the amateur. Especially since playing Hold'em optimally requires lots of patience it seems like a more action filled novel version of poker may move in to fill the gap. A game that hasn't been figured out until now!
+
+## Installation
+
 
 One to two paragraph statement about your product and what it does.
 
