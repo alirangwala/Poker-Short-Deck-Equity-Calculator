@@ -33,11 +33,8 @@ python calculator.py -h
 OS X & Linux:
 
 ```sh
-python calculator.py -c As Ah Jd Th -b 6d 8d 9d -n 1000 -h```
-```sh
+python calculator.py -c As Ah Jd Th -b 6d 8d 9d -n 1000 -h
 
-
-```sh
 
 Board: [6d, 8d, 9d]
 Hand Equities:
