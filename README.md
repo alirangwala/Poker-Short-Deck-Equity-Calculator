@@ -55,4 +55,3 @@ Straight Flush 0.4%
 
 
 Done in 0.122 seconds
-```sh
