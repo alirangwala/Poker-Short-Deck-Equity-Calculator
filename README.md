@@ -10,6 +10,10 @@ How is this game different than Texas hold'em?
 
 As mentioned earlier cards 2-5 are removed from the deck resulting in a 36 card deck. This does many things like making straights and pairs easier to hit while making flushes tougher. As a result different versions of short deck have different hand rankings. This equity calculator will cover the two most popular: the orginal six plus rankings and the Triton Series hand rankings. The latter has a straight beating three of a kind despite the higher probabilty of hitting a straight.
 
+Why use this software?
+
+Ever wonder if you made the right decision in a game? Should I have called that all in bet? Did I actually have good enough odds to hit that flush on the river? All the answers lie in a single line of code in your command line. By using this app to inspect your hands after a session you will be able to find holes in your game, errors in calculations or reaffirm correct calls or folds you have made. This tool is designed to make you a better player by showing you the math behnd the game.
+
 How do I use this app?
 
 Command Line Inputs:
