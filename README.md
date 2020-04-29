@@ -22,12 +22,23 @@ OS X & Linux:
 
 ```sh
 python calculator.py -h
-```
 
--b, --board: specify the cards on the board (ie flop, turn, river) 
--c, --cards: specify your hole cards and the hole cards of opponents 
--n, --num: specify the number of Monte Carlo simulations you want to run. Defaults to exact answer (longest run-time) 
--g, --game: specify set of rules either "triton" or "sixplus"
+usage: calculator.py [-h] [-b [BOARD [BOARD ...]]] [-c [CARDS [CARDS ...]]]
+                     [-n NUM] [-g GAME]
+
+Calculate your Short Deck odds. Be sure to enter cards in this format: As, Qc, Th, 2d
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -b [BOARD [BOARD ...]], --board [BOARD [BOARD ...]]
+                        Add board cards ie flop, turn, river
+  -c [CARDS [CARDS ...]], --cards [CARDS [CARDS ...]]
+                        Add hole cards
+  -n NUM, --num NUM     Run n Monte Carlo simulations. Defaults to exact
+                        answer. Monte Carlo simulations will have a lower
+                        runtime when there are no board cards.
+  -g GAME, --game GAME  Select triton or original rules. Triton rules straight > three of a kind.
+```
 
 ## Example
 
