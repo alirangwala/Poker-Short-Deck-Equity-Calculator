@@ -16,9 +16,8 @@ Ever wonder if you made the right decision on the turn? Should I have called tha
 
 ## How do I use this app?
 
-After you download the repository and set up a directory explore the parameters:
+After you download the repository and set up the directory explore the parameters:
 
-OS X & Linux:
 
 ```sh
 python calculator.py -h
@@ -42,8 +41,6 @@ optional arguments:
 ```
 
 ## Example
-
-OS X & Linux:
 
 ```sh
 python calculator.py -c As Ah Jd Th -b 6d 8d 9d -n 1000 -h
