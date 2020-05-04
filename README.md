@@ -18,10 +18,15 @@ Short deck is becoming increasingly popular because it is attracting lots amateu
 ## Poker terms to know:
 
   Hole Cards - The two cards held by a player that only that player can see.
+  
   Board - The community cards that include the flop, turn, and river.
+  
   Flop - First three cards on the board
+  
   Turn - Fourth card on the board
+  
   River - Fifth and final card on the board. After the river everyone's equity has been realized.
+  
   Equity - Odds of winning the pot at any given moment in time.
   
 ## How do I use this app?
