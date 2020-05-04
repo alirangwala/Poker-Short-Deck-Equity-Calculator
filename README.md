@@ -17,12 +17,12 @@ Short deck is becoming increasingly popular because it is attracting lots amateu
 
 ## Poker terms to know:
 
- -Hole Cards - The two cards held by a player that only that player can see.
- -Board - The community cards that include the flop, turn, and river.
- -Flop - First three cards on the board 
- -Turn - Fourth card on the board
- -River - Fifth and final card on the board. After the river everyone's equity has been realized.
- -Equity - Odds of winning the pot at any given moment in time.
+ *Hole Cards - The two cards held by a player that only that player can see.
+ *Board - The community cards that include the flop, turn, and river.
+ *Flop - First three cards on the board 
+ *Turn - Fourth card on the board
+ *River - Fifth and final card on the board. After the river everyone's equity has been realized.
+ *Equity - Odds of winning the pot at any given moment in time.
   
 ## How do I use this app?
 
@@ -74,6 +74,10 @@ Four of a Kind 0.1%
 Straight Flush 0.4%
 
 
-Done in 0.122 seconds```
+Done in 0.122 seconds
+```
 
+## Code overview
+
+This software was made using Python 3. The poker_functions.py file defines the Card class and contains the logic for all the possible hands as well as generating the deck and random boards. The interface.py file contains the argparser library and contains the code for taking in data from the command line as well as error handling. The calculator.py file is where these two parts meet and is the file that is run. It runs all the simulations and contains the formatting for the output.
 
